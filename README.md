@@ -10,8 +10,8 @@ The material cover most basic ROS commands:
 ROS Topic  
 ROS Run  
 ROS Message  
-Publisher  
-Subscriber
+ROS Publisher  
+ROS Subscriber
 ROS Node
 Launch file
 
